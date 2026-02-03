@@ -5,3 +5,4 @@ Practica4_1
 - Rama Practia4_1 creada.
 - Añadido metodo de fecha y hora a Principal.java
 - Creada clase Usuario
+- Modificacion de Principal.java con llamada a Usuario y correcion de errores
