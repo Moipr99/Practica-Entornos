@@ -4,3 +4,4 @@ Practica4_1
 - "Hola mundo" creado.
 - Rama Practia4_1 creada.
 - Añadido metodo de fecha y hora a Principal.java
+- Creada clase Usuario
