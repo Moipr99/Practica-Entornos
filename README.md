@@ -6,3 +6,4 @@ Practica4_1
 - Añadido metodo de fecha y hora a Principal.java
 - Creada clase Usuario
 - Modificacion de Principal.java con llamada a Usuario y correcion de errores
+- Creado el .gitignore
